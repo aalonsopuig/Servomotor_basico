@@ -61,6 +61,7 @@ no aplica un control en bucle cerrado decente, tipo PD o PID.</p>
     <p align="justify"><a href="SVD01_video.AVI">Video del servo en acción</a><font size="2">
     </font><font size="1">(.AVI 2Mb)</font></li>
 </ul>
+<br>
 <p><b>Nota</b>: Master y Slave han de estar conectados mediante tres hilos:
 Masa, SCL y SDA. El módulo presentado incluye las resistencias de PullUp, por
 lo que no es necesario añadirlas.&nbsp;</p>
