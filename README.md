@@ -17,6 +17,7 @@ que describe el diseño, tanto desde el punto de vista
 electrónico, como informático de un modelo de servomotor basado en microcontrolador PIC16F876, cuya particularidad
 consiste en ser controlado por bus I<sup>2</sup>C. Las características principales del
 módulo presentado son las siguientes:&nbsp;</p>
+<br>
 <p align="justify">1. Actúa como Slave permitiendo seleccionar mediante
 switches dip la dirección que utilizará en la red I<sup>2</sup>C.&nbsp;</p>
 <p align="justify">2. Se puede establecer mediante bus I<sup>2</sup>C tanto la posición
@@ -28,7 +29,8 @@ del eje así como otros ciertos valores de estado&nbsp;</p>
 <p align="justify">4. El módulo está protegido para evitar sobrecalentamiento
 del mismo mediante sensor de temperatura que activa un mecanismo de ventilación
 e incluso la parada del servomotor para evitar daños internos.&nbsp;</p>
-<p align="center"><img border="0" src="SVD01.jpg" width="508" height="351"></p>
+<br>
+<p align="center"><img border="0" src="SVD01.JPG" width="508" height="351"></p>
 <p align="justify">La ventaja que se obtiene con este tipo de módulos es
 precisamente un control completo por bus I<sup>2</sup>C que hace innecesario tener módulos
 específicos para control de servos como ocurre con los de control tipo PWM. De
